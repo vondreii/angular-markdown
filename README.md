@@ -1,8 +1,8 @@
-# Markdown-Files-with-Angular-App
+# angular-markdown-files
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
-Markdown-Files-with-Angular-App is provided as an example working simple Angular App which iterates over multiple `md` files. This is the resulting product of the tutorial [Creating a list of posts using Markdown on your Angular Website](https://vondreii.com/posts/post/creatingAListOfPostsUsingMarkdownOnYourAngularWebsite).
+angular-markdown-files is provided as an example of an Angular App iterating over and displaying multiple `md` files. This is the resulting product if you follow the steps from: [Creating a list of posts using Markdown on your Angular Website](https://vondreii.com/posts/post/creatingAListOfPostsUsingMarkdownOnYourAngularWebsite).
 
 
 ## Development server
