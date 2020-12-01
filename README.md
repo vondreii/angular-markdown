@@ -4,6 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 angular-markdown-files is provided as an example of an Angular App iterating over and displaying multiple `md` files. This is the resulting product if you follow the steps from: [Creating a list of posts using Markdown on your Angular Website](https://vondreii.com/posts/post/creatingAListOfPostsUsingMarkdownOnYourAngularWebsite).
 
+## To Run
+
+Run `npm install` in the root directory.
+Once completed, run `ng serve`.
+Navigate to `localhost:4200` in a browser.
 
 ## Development server
 
