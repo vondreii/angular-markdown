@@ -2,9 +2,11 @@
 
 ## About 
 
-angular-markdown is a working example of an Angular App that can display content and posts dynamically through the use of multiple markdown files. The basic idea is that each post or page with content will have their own markdown file (for example, different posts for different recipes).
+angular-markdown is a working example of an Angular App that can display content and posts dynamically through the use of multiple markdown files. The basic idea is that each post or page with content will have their own markdown file. The website iterates over each markdown post/page and displays a preview on the home page. When opened, the content of that `markdown` file will be opened on it's own page. 
 
-The website iterates over each markdown post/page and displays a preview on the home page. When opened, the content of that `markdown` file will be opened on it's own page. This can be used as a base for websites that use blogs/news/posts.
+In this example, there is a list of posts for different recipes. The home page will show a preview of all recipes, with a link that will open any given recipe on it's own page.
+
+This can be used as a base for websites that use blogs/news/posts.
 
 ## To Run
 
