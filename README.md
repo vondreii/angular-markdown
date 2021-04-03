@@ -1,13 +1,26 @@
 # angular-markdown
 
-angular-markdown is a working example of an Angular App that iterates over multiple `markdown` files, displays a preview of them and opens each `markdown` file as a separate page. It can be used as a base for websites that use blogs/news/posts.
+## About 
+
+angular-markdown is a working example of an Angular App that can display content and posts dynamically through the use of multiple markdown files. The basic idea is that each post or page with content will have their own markdown file (for example, different posts for different recipes).
+
+The website iterates over each markdown post/page and displays a preview on the home page. When opened, the content of that `markdown` file will be opened on it's own page. This can be used as a base for websites that use blogs/news/posts.
 
 ## To Run
 
-Run `npm install` in the root directory.
-Once completed, run `ng serve`.
-Navigate to `localhost:4200` in a browser.
+* Run `npm install` in the root directory to add the necessary npm packages to the project.
+* Once completed, run `ng serve`.
+* Navigate to `localhost:4200` in a browser.
+
+## To Build
+
+* Run `ng build` to build the project. The build artifacts will be stored in the dist/ directory. 
+* Use `ng build --prod` for a production build.
 
 ## Resources
 
-From [Creating a list of posts using Markdown on your Angular Website](https://vondreii.com/posts/post/creatingAListOfPostsUsingMarkdownOnYourAngularWebsite).
+From [Creating a list of posts using Markdown on your Angular Website](https://vondreii.com/blog/creatingAListOfPostsUsingMarkdownOnYourAngularWebsite).
+
+<br>
+
+![alt text](src/assets/images/preview.jpg)

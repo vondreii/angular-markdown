@@ -10,6 +10,7 @@ import { Post } from 'src/app/models/post'; // Add this
 export class HomeComponent implements OnInit {
 
   // Add this post array:
+  // You can modify this list into a structure that can dynamically update as you add posts. 
   posts: Post[] = [
     { 
       "title": "Chocolate Cheesecake Recipe", 
