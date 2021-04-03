@@ -6,7 +6,7 @@ angular-markdown is a working example of an Angular App that can display content
 
 In this example, there is a list of posts for different recipes. The home page will show a preview of all recipes, with a link that will open any given recipe on it's own page.
 
-This can be used as a base for websites that use blogs/news/posts.
+This can be used as a base for simple blog/post websites.
 
 ## To Run
 
